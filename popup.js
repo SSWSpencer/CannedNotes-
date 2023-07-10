@@ -3,7 +3,7 @@
 
 
 
-// ngl I have no idea what this first line does, I copied it from a basic chrome extension boilerplate snippet. It appears to be the "do shit" function that does shit. We're off to a great start, one line in and I already have no idea what my code does
+// ngl I have no idea what this first line does, I copied it from a basic chrome extension boilerplate snippet. It appears to be the "do stuff" part that does stuff. We're off to a great start, one line in and I already have no idea what my code does
 document.addEventListener('DOMContentLoaded', function() {
 
     // render the "create new" button in the extention tab (line 25)
